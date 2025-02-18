@@ -1,1 +1,1 @@
-# Integra-o-EntregaCont-nua
+# Repositorio para aula de Integração e Entrega Contínua
